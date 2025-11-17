@@ -1,18 +1,5 @@
 # Selenium Test Engineer Coding Challenge
 
-## Setup Instructions
-
-### Prerequisites
-- Java 17 or higher
-- Maven 3.6+
-- Chrome browser installed
-
-### Getting Started
-
-1. Import the project into your IDE (IntelliJ IDEA or Eclipse)
-2. Maven will automatically download dependencies
-3. Run `mvn clean test` to verify setup
-
 ## Your Task
 
 Complete the test automation for adding a product to cart on https://www.saucedemo.com/
